@@ -1,9 +1,12 @@
 <?php
 
-ini_set('display_errors', 0);
-ini_set('error_reporting', 0);
-error_reporting(0);
-//error_reporting(E_ALL & ~E_DEPRECATED);
+if(isset($_GET["_display_errors_"])){
+    error_reporting(E_ALL & ~E_DEPRECATED);
+} else {
+    ini_set('display_errors', 0);
+    ini_set('error_reporting', 0);
+    error_reporting(0);
+}
 
 require("./lib/autoload.php");
 require_once("./lib/rudrax/boot/RudraX.php");
