@@ -13,7 +13,7 @@
     },
 
     "require": {
-        "rudrax/boot": "dev-master",
-        "michelf/php-markdown": "^1.7"
+        "boilerplatez/docs" : "dev-master",
+        "rudrax/boot": "dev-master"
     }
 }
