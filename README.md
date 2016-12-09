@@ -1,7 +1,9 @@
 # rudrax-basic
 Sample RudraxPhp project
 
-For [System Setup For RudraxPhp](https://github.com/boilerplatez/rudrax-basic/blob/master/SYSTEM.md)
+For Server Setup [XAMPP-MAC](https://github.com/boilerplatez/rudrax-basic/blob/master/docs/SERVER-XAMPP-MAC.md)
+
+For System Environment Setup [PHP-COMPOSER](https://github.com/boilerplatez/rudrax-basic/blob/master/docs/SYSTEM.md)
 
 - Fix build directory   
 ````
