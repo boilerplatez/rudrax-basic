@@ -1,0 +1,13 @@
+{
+  "name": "rudrax-basic",
+  "description": "",
+  "version": "0.1.0",
+  "homepage": "",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "webmodules-bootstrap": "~3.2.34"
+  },
+  "devDependencies": {
+  }
+}
