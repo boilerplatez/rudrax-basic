@@ -15,6 +15,7 @@
     "require": {
         "boilerplatez/docs" : "dev-master",
         "rudrax/boot": "dev-master",
-        "rudrax/redbean": "^0.0.0"
+        "rudrax/redbean": "^0.0.0",
+        "parichya/sso": "dev-master"
     }
 }

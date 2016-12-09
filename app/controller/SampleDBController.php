@@ -16,7 +16,7 @@ class SampleDBController extends AbstractController
     /**
      * @Description - Items page
      *
-     * @RequestMapping(url="items",type="template")
+     * @RequestMapping(url="items",type="template", auth=true)
      * @RequestParams(true)
      */
     public function items_page($model = null, $title = null, $quantity = 0)
