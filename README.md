@@ -18,3 +18,7 @@ For System Environment Setup [PHP-COMPOSER](https://github.com/boilerplatez/docs
     http://<project.url>?RX_MODE_DEBUG=true&RX_MODE_BUILD=1&_display_errors_=1
     ````
 - Done.
+
+
+# Other Project Flavours & Plugin integrations
+- [rudrax-sso](https://github.com/boilerplatez/rudrax-basic/tree/rudrax-sso)
