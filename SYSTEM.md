@@ -8,6 +8,11 @@
  $ brew doctor
  $ brew cask install tcl
 ````
+- Install composer with following commands or follow links [download](https://getcomposer.org/download/) and [install](https://getcomposer.org/doc/00-intro.md#globally)
+````
+$ curl -s https://getcomposer.org/installer | php
+$ sudo mv composer.phar /usr/local/bin/composer
+````
 
 #### Optional Setups
  
